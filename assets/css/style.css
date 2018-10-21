@@ -1,0 +1,16 @@
+.card {
+    float: right;
+    margin: 10px;
+}
+
+.form-group {
+    padding: 10px;
+}
+
+#gifs-appear-here {
+    padding: 10px;
+}
+
+#find-giph {
+    margin: 5px 0px;
+}
